@@ -1,3 +1,0 @@
-select vdisk file="C:\Users\<UID>\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\ext4.vhdx"
-compact vdisk
-exit
